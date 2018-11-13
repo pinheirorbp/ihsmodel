@@ -1,0 +1,6 @@
+Simulation ID	Sres	Scon	nclust	supdim	maxdis	probclust	initial matrix	k method	iterations
+ID1	50	10	2	2	1	0.5-0.5	all0	rnorm200-50	500
+ID2	100	30	2	2	0.5	0.5-0.5	all1	rnorm200-50	500
+ID3	80	20	1	2	1.5	1	rnorm	rnorm200-50	500
+ID4	40	5	4	2	1.5	0.25-0.25-0.25-0.25	all0	rnorm200-50	500
+ID5	100	30	4	2	2	0.25-0.25-0.25-0.25	all0	rnorm200-50	500
